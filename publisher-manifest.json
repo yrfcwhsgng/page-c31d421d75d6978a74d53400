@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "d52f1d2bbd9d5230d76de45d",
+  "owner": "yrfcwhsgng",
+  "repo": "page-c31d421d75d6978a74d53400",
+  "title": "MGNB",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "c31d421d75d6978a74d53400",
+      "a": "MGNB",
+      "b": "稳定全球clash加速器",
+      "entity": "MGNB",
+      "brand": "MGNB",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "0c61f436929ebe0d53d196ef8bc1b6eefe0f80dce84732f212fae24339a7ded0",
+      "content": {
+        "primary_entity": "MGNB",
+        "keyword1": "MGNB",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_DESCRIPTION": "，MGNB 提供基础版、旗舰版、团队版三档订阅，月付与年付均可选，年付价格为 ¥150、¥350、¥850。流量从每月 100GB 到 1000GB，设备数从 3 台到 20 台，旗舰版带 IPLC 专线并侧重游戏加速，团队版含 VIP 高带宽节点与定制路由支持。",
+          "AI_HERO_SUBTITLE": "多档订阅适配多设备加速",
+          "AI_HERO_INTRO": "MGNB 是面向全球线路的加速服务，按流量、设备数与线路等级划分基础版、旗舰版和团队版。基础版适合个人日常使用，旗舰版兼顾流媒体与游戏，团队版面向多设备协作场景。选择时先确认常用设备数量与月流量需求，再匹配订阅周期。",
+          "AI_VISUAL_TITLE": "MGNB 多设备订阅方案",
+          "AI_HIGHLIGHT_1": "三档套餐对应不同流量与设备数",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线游戏优化",
+          "AI_HIGHLIGHT_3": "年付折算更省，团队版支持定制路由",
+          "AI_FEATURES_TITLE": "套餐与设备要点",
+          "AI_FEATURES_INTRO": "从流量、设备数量和线路等级三个维度对比 MGNB 套餐，便于快速匹配使用场景。",
+          "AI_FEATURE_TITLE_1": "按流量选档",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB，旗舰版 300GB，团队版 1000GB，轻度浏览与多人共享可按此对应。",
+          "AI_FEATURE_TITLE_2": "按设备数规划",
+          "AI_FEATURE_TEXT_2": "3 台、5 台、20 台设备同时在线分别对应基础版、旗舰版与团队版，先清点手机、电脑与平板数量。",
+          "AI_FEATURE_TITLE_3": "按周期付费",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付价格为 ¥150、¥350、¥850，长期使用可选年付降低每月支出。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月；年付分别为 ¥150、¥350、¥850，旗舰版为多数用户的主选档位。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "在 Windows、macOS、Android、iOS 与路由器上按设备系统选择对应客户端，安装后导入 MGNB 订阅链接即可使用。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_GUIDE_INTRO": "先确定套餐，再核对设备适配，最后按客户端文档导入订阅，三步完成配置。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "根据常用设备数量与月流量需求，在基础版、旗舰版、团队版中选定一档并确定月付或年付。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端类型，对照 MGNB 订阅说明检查版本与网络环境要求。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "在对应客户端中导入 MGNB 订阅链接，按客户端文档完成节点与规则设置后开始连接。",
+          "AI_CLOSING_TITLE": "选好套餐再连接",
+          "AI_CLOSING_TEXT": "先按设备与流量锁定 MGNB 套餐，再依客户端文档导入订阅，即可进入稳定加速体验。",
+          "AI_FAQ_ANSWER_1": "基础版适合个人轻度使用，提供每月 100GB 流量和 3 台设备同时在线，涵盖基础流媒体解锁与普通线路节点池。若日常流量不大、连接设备少，从基础版开始比较合适。",
+          "AI_FAQ_ANSWER_2": "旗舰版支持 5 台设备同时在线，每月 300GB 流量，并带有 IPLC 专线游戏加速优化与全节点原生流媒体解锁。团队版则支持 20 台设备、每月 1000GB 流量和 VIP 专属高带宽节点，适合多人共用或企业场景。",
+          "AI_FAQ_ANSWER_3": "先根据常用设备数量和每月流量估算，选择对应套餐；也可从基础版逐级向上对比。旗舰版和团队版按年付分别仅需 ¥350/年和 ¥850/年，长期使用成本更低。",
+          "AI_FAQ_ANSWER_4": "在对应系统客户端中打开订阅管理页面，粘贴订阅链接后保存并更新节点即可。不同客户端菜单名称不同，可对照界面提示逐步操作。",
+          "AI_FAQ_ANSWER_5": "设备限制取决于套餐：基础版 3 台、旗舰版 5 台、团队版 20 台同时在线。若经常多设备切换使用，建议选择旗舰版或以上；多人共用则团队版更合适。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与套餐周期。",
+          "AI_FAQ_QUESTION_1": "基础版适合什么使用场景？",
+          "AI_FAQ_QUESTION_2": "旗舰版和团队版在设备数量上有何区别？",
+          "AI_FAQ_QUESTION_3": "如何判断自己该选哪一档套餐？",
+          "AI_FAQ_QUESTION_4": "订阅导入需要做哪些准备？",
+          "AI_FAQ_QUESTION_5": "同时在线设备数量是如何限制的？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "youtojob.cn",
+    "host": "youtojob.cn"
+  },
+  "file_hashes": {
+    "index.html": "c8b38f7bfa26cac2e0a58f3cdfe4f3695b944acd6b6c727797610e521018ea53",
+    "sitemap.xml": "aec4f5b51b381548f10cbfd37d5193aa1855fb2623c120cb528d980bdeefdaa6",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "b0e453b950f7b6b060ff629c1ee6145bc4d52330c4426d6d3870241e69f37b5f",
+    "robots.txt": "237ef68188a71c11dfd74ace06019872f81be0d6cac20a4fab6b2f1e8ee54c2e",
+    "bf3893911e3963feece106b6004b3f10.txt": "8815f34055dd5b5b9078ee386f152bd554b03766d58df70c5cc48f46b97b961a"
+  },
+  "revision": "9b024a79591ffa8955c0731b310eaf881abbac654a10f6d8bc4ba7b454af4d8f"
+}
